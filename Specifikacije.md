@@ -1,4 +1,3 @@
-
 ## Funkcionalnosti
 
 1. Glavni drop down meni: *Ima vse topike glede na spletno stran (opis, kontakt, prenesi, dokumentacija...)* &#128203;
